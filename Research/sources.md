@@ -44,3 +44,89 @@ https://www.youtube.com/@AmitTiwari/videos
 **Reason for Selection:**
 Amit Tiwari shares practical SEO strategies, AI search insights, and content marketing workflows. His content combines technical SEO knowledge with emerging AI applications in content creation and optimization.
 
+### 4. Freddie Chatt
+
+**LinkedIn:**
+https://www.linkedin.com/in/freddiechatt/
+
+**Website:**
+https://freddiechatt.com/
+
+**Reason for Selection:**
+Freddie Chatt shares practical SEO strategies, content growth frameworks, and AI-assisted content workflows. His work focuses on helping businesses scale organic traffic through systematic SEO and content production processes.
+
+### 5. Aimee Jurenka
+
+**LinkedIn:**
+https://www.linkedin.com/in/aimee-jurenka/
+
+**Website:**
+https://aimeejurenka.com/
+
+**Reason for Selection:**
+Aimee Jurenka regularly discusses content strategy, SEO operations, and AI-enabled marketing workflows. Her content provides valuable insights into balancing automation with high-quality content creation.
+
+### 6. Kai Cromwell
+
+**LinkedIn:**
+https://www.linkedin.com/in/kai-cromwell/
+
+**Website:**
+https://newseas.co/
+
+**Reason for Selection:**
+Kai Cromwell focuses on modern SEO strategies, AI-powered content systems, and scalable organic growth. His work provides practical examples of integrating AI into content production and search optimization.
+
+### 7. Joe Fisher
+
+**LinkedIn:**
+https://www.linkedin.com/in/joemfisher/
+
+**Website:**
+https://fisherseo.com/
+
+**Reason for Selection:**
+Joe Fisher shares insights on SEO execution, content strategy, and organic growth. His experience working directly with businesses makes his content valuable for understanding real-world SEO implementation.
+
+
+### 8. Umar Tazkeer
+
+**LinkedIn:**
+https://www.linkedin.com/in/umartazkeer/
+
+**Website:**
+https://utdigitalmedia.com/
+
+**YouTube:**
+https://www.youtube.com/@UmarTazkeer/videos
+
+**Reason for Selection:**
+Umar Tazkeer frequently discusses AI SEO, content automation, and search optimization. His content combines practical experimentation with actionable strategies for scaling content production.
+
+### 9. Dominic Lambersy
+
+**LinkedIn:**
+https://www.linkedin.com/in/lambersy/
+
+**Website:**
+https://textcortex.com/
+
+**YouTube:**
+https://www.youtube.com/@textcortex/videos
+
+**Reason for Selection:**
+Dominic Lambersy is closely involved with AI-powered content creation and knowledge management systems. His work offers valuable perspectives on how AI can enhance content production workflows and SEO processes.
+
+### 10. Kate Smoothy
+
+**LinkedIn:**
+https://www.linkedin.com/in/kate-smoothy/
+
+**Website:**
+https://webhivedigital.com/
+
+**YouTube:**
+https://www.youtube.com/@webhivedigital/featured
+
+**Reason for Selection:**
+Kate Smoothy shares practical SEO insights, client case studies, and content growth strategies. Her experience delivering measurable SEO results provides a practitioner-focused perspective on content production and optimization.
