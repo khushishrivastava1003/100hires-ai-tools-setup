@@ -2,6 +2,18 @@
 
 ## Selected Experts
 
+Selection Strategy:
+
+To avoid collecting similar viewpoints, I selected experts from different backgrounds:
+
+- SaaS operators
+- Agency founders
+- SEO consultants
+- AI platform builders
+- Content strategists
+
+This allowed me to compare how different practitioners approach AI-powered SEO content production.
+
 ### 1. Matt Kenyon
 
 **LinkedIn:**
