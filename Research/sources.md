@@ -75,6 +75,12 @@ https://www.linkedin.com/in/markseo/
 **Website:**
 https://markwilliamscook.com/
 
-### 9. 
+### 9. Steve Toth
+
+**LinkedIn:**
+https://www.linkedin.com/in/stevetothjr/
+
+**Website:**
+https://notebook.agency/
 
 ### 10. 
