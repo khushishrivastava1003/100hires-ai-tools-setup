@@ -1,18 +1,18 @@
 # Video Analysis
 
-## Video Title
+# Video Title
 How To Rank SEO Content In Google And AI Platforms
 
-## Expert
+# Expert
 Nathan Gotch 
 
 ## Video URL
 https://www.youtube.com/watch?v=AaSyn9YSNYQ 
 
-## Collection Method
+# Collection Method
 Transcript collected using Supadata API.
 
-## Analysis Method
+# Analysis Method
 Transcript analyzed using Codex and manual review to identify themes, workflows, and insights related to AI-Powered SEO Content Production.
 
 # Executive Summary
