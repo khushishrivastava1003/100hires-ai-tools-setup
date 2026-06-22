@@ -86,9 +86,29 @@ https://newseas.co/
 **Reason for Selection:**
 Kai Cromwell focuses on modern SEO strategies, AI-powered content systems, and scalable organic growth. His work provides practical examples of integrating AI into content production and search optimization.
 
-### 7. 
+### 7. Nathan Gotch
 
-### 8. 
+**LinkedIn:**
+https://www.linkedin.com/in/nathangotch/
+
+**Website:**
+https://www.rankability.com/
+
+**YouTube:**
+https://www.youtube.com/@nathangotch/videos
+
+**Reason for Selection:**
+
+
+### 8. Mark Williams-Cook
+
+**LinkedIn:**
+https://www.linkedin.com/in/markseo/
+
+**Website:**
+https://markwilliamscook.com/
+
+**Reason for Selection:**
 
 ### 9. 
 
