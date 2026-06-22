@@ -42,7 +42,15 @@ https://www.youtube.com/@Nico_AIRanking/videos
 **Reason for Selection:**
 Nicolas focuses heavily on AI-driven SEO systems, AI search optimization, and scalable content production. His work provides insights into how AI tools can be integrated into modern SEO workflows.
 
-### 3. 
+### 3. Ivan Palii
+
+**LinkedIn:**
+https://www.linkedin.com/in/ivanpalii/
+
+**Website:**
+https://b2bgaps.com/
+
+**Reason for Selection:**
 
 
 ### 4. Freddie Chatt
@@ -80,33 +88,8 @@ Kai Cromwell focuses on modern SEO strategies, AI-powered content systems, and s
 
 ### 7. 
 
-
 ### 8. 
 
-### 9. Dominic Lambersy
+### 9. 
 
-**LinkedIn:**
-https://www.linkedin.com/in/lambersy/
-
-**Website:**
-https://textcortex.com/
-
-**YouTube:**
-https://www.youtube.com/@textcortex/videos
-
-**Reason for Selection:**
-Dominic Lambersy is closely involved with AI-powered content creation and knowledge management systems. His work offers valuable perspectives on how AI can enhance content production workflows and SEO processes.
-
-### 10. Kate Smoothy
-
-**LinkedIn:**
-https://www.linkedin.com/in/kate-smoothy/
-
-**Website:**
-https://webhivedigital.com/
-
-**YouTube:**
-https://www.youtube.com/@webhivedigital/featured
-
-**Reason for Selection:**
-Kate Smoothy shares practical SEO insights, client case studies, and content growth strategies. Her experience delivering measurable SEO results provides a practitioner-focused perspective on content production and optimization.
+### 10. 
