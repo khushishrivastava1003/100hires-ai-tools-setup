@@ -42,19 +42,8 @@ https://www.youtube.com/@Nico_AIRanking/videos
 **Reason for Selection:**
 Nicolas focuses heavily on AI-driven SEO systems, AI search optimization, and scalable content production. His work provides insights into how AI tools can be integrated into modern SEO workflows.
 
-### 3. Amit Tiwari
+### 3. 
 
-**LinkedIn:**
-https://www.linkedin.com/in/teamamittiwari/
-
-**Website:**
-https://amittiwari.net/
-
-**YouTube:**
-https://www.youtube.com/@AmitTiwari/videos
-
-**Reason for Selection:**
-Amit Tiwari shares practical SEO strategies, AI search insights, and content marketing workflows. His content combines technical SEO knowledge with emerging AI applications in content creation and optimization.
 
 ### 4. Freddie Chatt
 
@@ -89,31 +78,10 @@ https://newseas.co/
 **Reason for Selection:**
 Kai Cromwell focuses on modern SEO strategies, AI-powered content systems, and scalable organic growth. His work provides practical examples of integrating AI into content production and search optimization.
 
-### 7. Joe Fisher
-
-**LinkedIn:**
-https://www.linkedin.com/in/joemfisher/
-
-**Website:**
-https://fisherseo.com/
-
-**Reason for Selection:**
-Joe Fisher shares insights on SEO execution, content strategy, and organic growth. His experience working directly with businesses makes his content valuable for understanding real-world SEO implementation.
+### 7. 
 
 
-### 8. Umar Tazkeer
-
-**LinkedIn:**
-https://www.linkedin.com/in/umartazkeer/
-
-**Website:**
-https://utdigitalmedia.com/
-
-**YouTube:**
-https://www.youtube.com/@UmarTazkeer/videos
-
-**Reason for Selection:**
-Umar Tazkeer frequently discusses AI SEO, content automation, and search optimization. His content combines practical experimentation with actionable strategies for scaling content production.
+### 8. 
 
 ### 9. Dominic Lambersy
 
