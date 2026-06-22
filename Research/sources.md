@@ -1,5 +1,21 @@
 # AI-Powered SEO Content Production
 
+## Research Scope
+
+Research Period:
+22 May 2026 – 22 June 2026
+
+Research Methods:
+- LinkedIn post analysis via Apify API
+- YouTube transcript collection via Supadata API
+- Codex-assisted content analysis
+
+Experts Reviewed:10
+
+LinkedIn Posts Reviewed:350
+
+YouTube Videos Analyzed:9
+
 ## Selected Experts
 
 ### 1. Matt Kenyon
